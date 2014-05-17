@@ -40,9 +40,6 @@ Bundle 'mattn/webapi-vim'
 
 Bundle 'jplaut/vim-arduino-ino'
 
-" Autocomplete
-Bundle 'Valloric/YouCompleteMe'
-
 " With thanks to tpope
 Bundle 'tpope/vim-fugitive'
 Bundle 'tpope/vim-surround'
